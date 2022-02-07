@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Yu yao
+title: Li Yuyao
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,26 +14,23 @@ organizations:
   url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests mainly focus on ships and marine engineering.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Machine Learning
+- Data Analysis
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Undergraduate Majoring in Ship and Ocean Engineering
+    institution: Shanghai Jiao Tong University
+    year: 2019-2023
+  - course: Undergraduate Minor in Finance
+    institution: Shanghai Jiao Tong University
+    year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Li Yuyao is currently an undergraduate student in Ship and Ocean Engineering at Shanghai Jiao Tong University. Her main research interests focus on using machine learning and other modern computing methods to deeply explore ocean engineering. During the undergraduate period, his academic performance ranked in the top 10% of his majors, he has won a number of scholarships, and achieved good results in many large-scale science and technology competitions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition, Li Yuyao also majored in finance during her undergraduate studies, which allowed her to master different data processing and information analysis skills and broaden her way of thinking.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
