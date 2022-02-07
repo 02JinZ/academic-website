@@ -19,11 +19,7 @@ feature:
 - description: 60%
   icon: chart-line
   icon_pack: fas
-  name: Data Analysis
-- description: 60%
-  icon: chart-line
-  icon_pack: fas
-  name: Programming Ability
+  name: Data Analysis and Programming Ability
 - description: 90%
   icon: chart-line
   icon_pack: fas
