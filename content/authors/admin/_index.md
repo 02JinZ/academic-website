@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Yuyao
+title: Li Yu yao
 
 # Is this the primary user of the site?
 superuser: true
